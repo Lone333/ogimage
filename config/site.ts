@@ -2,7 +2,8 @@ import { SiteConfig } from "@/types/siteConfig";
 
 export const SITE_OWNER = "Magi";
 export const BASE_URL = "https://ogimage.cc";
-
+export const TWITTER_URL = "#";
+export const BLUESKY_URL = "#";
 
 
 const baseSiteConfig = {
