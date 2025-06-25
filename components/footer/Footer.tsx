@@ -1,5 +1,4 @@
 import Link from "next/link"
-import { GithubIcon } from "lucide-react"
 import { FaBluesky, FaXTwitter } from "react-icons/fa6"
 
 import { siteConfig } from "@/config/site"
