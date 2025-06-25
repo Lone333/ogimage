@@ -1,9 +1,8 @@
 import { SiteConfig } from "@/types/siteConfig";
 
-export const SITE_OWNER = "Jude Wei";
-export const BASE_URL = "https://ogimage.click";
-export const TWITTER_URL = "https://x.com/intent/follow?screen_name=judewei_dev";
-export const BLUESKY_URL = "https://bsky.app/profile/judewei.bsky.social";
+export const SITE_OWNER = "Magi";
+export const BASE_URL = "https://ogimage.cc";
+
 
 
 const baseSiteConfig = {
